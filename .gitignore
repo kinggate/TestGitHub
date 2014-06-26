@@ -15,7 +15,6 @@ moc_*.cpp
 *.Release
 *.pro.user.*
 *.cd
-*.rar
 
 /GeneratedFiles
 _UpgradeReport_Files/
