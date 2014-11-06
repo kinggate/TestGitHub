@@ -18,6 +18,8 @@
 #include "d_box.h"
 //#include "usbtxrx.h"
 
+//lkb
+
 //NOTE: _beginthread() 
 // To use _beginenthread(),Activate "Project/Settings/C/C++/Categry/Code generation/
 // Use Run-Time library/Multithreaded or Debug Multithreaded"
